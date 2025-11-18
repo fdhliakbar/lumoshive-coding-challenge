@@ -1,7 +1,7 @@
 # Lumoshive Challenge: The Mirror Equation
 
 <div align="center">
-<img src="https://lumoshive.com/assets/newUI/logo.png" alt="lumoshive image" />
+<img src="./image.png" alt="lumoshive image" />
 </div>
 
 Solusi ini dikembangkan untuk menyelesaikan tantangan "The Mirror Equation" dari Lumoshive, dengan mematuhi semua batasan yang ditetapkan, terutama larangan penggunaan fungsi _built-in_ Python untuk _parsing_ dan pembalikan string.
